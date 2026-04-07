@@ -1,6 +1,6 @@
 import socket
 
-hostname = "examplehost.com"
+hostname = "example.com"
 ip_address = socket.gethostbyname(hostname)
 
 print("Hello!")
